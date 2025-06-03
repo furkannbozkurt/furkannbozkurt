@@ -18,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkannbozkurt&show_icons=true&locale=en" alt="furkannbozkurt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkannbozkurt&" alt="furkannbozkurt" /></p>
+
+
+![snake gif](https://github.com/furkannbozkurt/furkannbozkurt/blob/output/github-contribution-grid-snake.gif)
